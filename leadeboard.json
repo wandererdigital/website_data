@@ -12,5 +12,13 @@
     "adventures_completed": 1,
     "xp": 132,
     "discovered": 11
+  },
+  {
+    "username": "test2",
+    "level": 21,
+    "adventures_completed": 71,
+    "xp": 1132,
+    "discovered": 81
   }
+
 ]
