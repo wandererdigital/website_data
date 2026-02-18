@@ -1,10 +1,17 @@
 [
   {
     "username": "levainqueur",
-    "level": 18,
-    "adventures_completed": 23,
-    "xp": 715,
-    "discovered": 24
+    "level": 1,
+    "adventures_completed": 1,
+    "xp": 75,
+    "discovered": 5
+  },
+  {
+    "username": "victor_catalin",
+    "level": 1,
+    "adventures_completed": 0,
+    "xp": 0,
+    "discovered": 0
   },
   {
     "username": "Zangetsu",
@@ -12,13 +19,5 @@
     "adventures_completed": 1,
     "xp": 132,
     "discovered": 11
-  },
-  {
-    "username": "test2",
-    "level": 21,
-    "adventures_completed": 71,
-    "xp": 1132,
-    "discovered": 81
   }
-
 ]
