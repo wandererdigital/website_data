@@ -1,21 +1,22 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 4,
-    "description": "Activează clădiri aflate pe strada Buzești pentru a finaliza aventura!",
-    "xp": 40
+    "title": "Arhitecți Celebri",
+    "amount": 5,
+    "description": "Activează clădiri proiectate de arhitectul Tiberiu Niga pentru a finaliza aventura!",
+    "xp": 50
+  },
+   {
+    "title": "Clădiri Monument (B)",
+    "amount": 15,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 150
   },
    {
     "title": "Stiluri Arhitecturale",
-    "amount": 19,
-    "description": "Activează clădiri realizate în stil modernist, din perioada socialistă, pentru a finaliza aventura!",
-    "xp": 190
-  },
-   {
-    "title": "Perioade Istorice",
-    "amount": 9,
-    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
-    "xp": 90
+    "amount": 12,
+    "description": "Activează clădiri realizate în stil Art Deco pentru a finaliza aventura!",
+    "xp": 120
   }
 
 ]
+
