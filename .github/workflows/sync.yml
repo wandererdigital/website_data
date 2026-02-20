@@ -1,4 +1,4 @@
-name: Hourly Firestore Sync
+name: 6H Firestore Sync
 
 on:
   schedule:
