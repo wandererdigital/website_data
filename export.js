@@ -1,12 +1,6 @@
 const admin = require('firebase-admin');
 const fs = require('fs');
 
-// Verify the secret exists
-if (!process.env.FIREBASE_SERVICE_ACCOUNT) {
-  console.error("Error: FIREBASE_SERVICE_ACCOUNT secret is missing!");
-  process.exit(1);
-}
-
 const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
 
 admin.initializeApp({
@@ -17,27 +11,27 @@ admin.initializeApp({
 const db = admin.firestore();
 
 async function exportData() {
-  // This will help us debug
-  console.log(`Attempting to connect to Project: ${serviceAccount.project_id}`);
-  
+  console.log("Starting export...");
   try {
-    // We use db.collection('users').limit(1) just to test the connection
     const snapshot = await db.collection('users').get();
     
-    if (snapshot.empty) {
-      console.log("Connection successful, but the 'users' collection is empty.");
-      fs.writeFileSync('leaderboard.json', JSON.stringify([], null, 2));
-    } else {
-      const data = snapshot.docs.map(doc => ({
-        id: doc.id,
-        ...doc.data()
-      }));
-      
-      fs.writeFileSync('leaderboard.json', JSON.stringify(data, null, 2));
-      console.log(`Success! exported ${data.length} documents.`);
-    }
+    const data = snapshot.docs.map(doc => {
+      const d = doc.data();
+      return {
+        username: d.username,
+        level: d.level,
+        adventures_completed: d.adventures_completed,
+        xp: d.xp,
+        discovered: d.discovered
+      };
+    });
+
+    // This overwrites the existing file every time
+    fs.writeFileSync('leaderboard.json', JSON.stringify(data, null, 2));
+    console.log(`Finished! Exported ${data.length} users to leaderboard.json.`);
+    process.exit(0);
   } catch (error) {
-    console.error("Detailed Error:", error.message);
+    console.error("Export failed:", error);
     process.exit(1);
   }
 }
