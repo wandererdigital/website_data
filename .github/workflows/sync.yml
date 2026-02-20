@@ -1,24 +1,24 @@
 name: Hourly Firestore Sync
+
 on:
   schedule:
-    - cron: '0 * * * *' # Runs exactly at the start of every hour
-  workflow_dispatch:   # Adds the "Run workflow" button for manual testing
+    # Runs every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Essential: gives the bot permission to save the JSON to your repo
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
-      - name: Install Firebase Admin
+      - name: Setup Node.js
+        uses: actions/checkout@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
         run: npm install firebase-admin
 
       - name: Run Export Script
@@ -26,10 +26,10 @@ jobs:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: node export.js
 
-      - name: Commit and Push JSON
+      - name: Push to Repo
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
           git add leaderboard.json
-          git commit -m "Automated update: $(date)" || echo "No changes to commit"
+          git commit -m "Automated leaderboard update" || exit 0
           git push
