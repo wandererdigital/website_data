@@ -2,8 +2,9 @@ name: 6H Firestore Sync
 
 on:
   schedule:
-    # Runs every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
-    - cron: '0 */6 * * *'
+    # Runs at 17 minutes past the hour to avoid GitHub congestion
+    # 02:17, 08:17, 14:17, 20:17 (Bucharest Time)
+    - cron: '17 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Setup Node.js
-        uses: actions/checkout@v3
+        uses: actions/setup-node@v3  # <--- FIXED: Was previously actions/checkout
         with:
           node-version: '18'
 
