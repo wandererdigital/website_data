@@ -1,24 +1,25 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 9,
-    "description": "Activează clădiri aflate pe strada Mihail Moxa pentru a finaliza aventura!",
-    "xp": 90
-  },
-   {
-    "title": "Clădiri Monument (A)",
-    "amount": 23,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 230
-  },
-   {
     "title": "Arhitecți Celebri",
+    "amount": 8,
+    "description": "Activează clădiri proiectate de arhitectul State Baloșin pentru a finaliza aventura!",
+    "xp": 80
+  },
+   {
+    "title": "Perioade Istorice",
+    "amount": 18,
+    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
+    "xp": 180
+  },
+   {
+    "title": "Stiluri Arhitecturale",
     "amount": 5,
-    "description": "Activează clădiri proiectate de arhitectul Arghir Culina pentru a finaliza aventura!",
+    "description": "Activează clădiri realizate în stil brâncovenesc pentru a finaliza aventura!",
     "xp": 50
   }
 
 ]
+
 
 
 
