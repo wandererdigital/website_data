@@ -1,24 +1,25 @@
 [
   {
-    "title": "Arhitecți Celebri",
-    "amount": 8,
-    "description": "Activează clădiri proiectate de arhitectul State Baloșin pentru a finaliza aventura!",
-    "xp": 80
+    "title": "Clădiri Monument (A)",
+    "amount": 17,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 170
   },
    {
-    "title": "Perioade Istorice",
-    "amount": 18,
-    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
-    "xp": 180
+    "title": "Arhitecți Celebri",
+    "amount": 3,
+    "description": "Activează clădiri proiectate de arhitectul Alexandru Săvulescu pentru a finaliza aventura!",
+    "xp": 30
   },
    {
     "title": "Stiluri Arhitecturale",
-    "amount": 5,
-    "description": "Activează clădiri realizate în stil brâncovenesc pentru a finaliza aventura!",
-    "xp": 50
+    "amount": 7,
+    "description": "Activează clădiri realizate în stil mediteraneean pentru a finaliza aventura!",
+    "xp": 70
   }
 
 ]
+
 
 
 
