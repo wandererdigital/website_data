@@ -1,24 +1,25 @@
 [
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 11,
-    "description": "Activează clădiri realizate în stil neogotic pentru a finaliza aventura!",
-    "xp": 110
+    "title": "Străzi Reper",
+    "amount": 3,
+    "description": "Activează clădiri aflate pe strada Anastasie Simu pentru a finaliza aventura!",
+    "xp": 30
   },
    {
-    "title": "Perioade Istorice",
-    "amount": 15,
-    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
-    "xp": 150
+    "title": "Arhitecți Celebri",
+    "amount": 3,
+    "description": "Activează clădiri proiectate de arhitectul Marcel Maller pentru a finaliza aventura!",
+    "xp": 30
   },
    {
     "title": "Clădiri Monument (B)",
-    "amount": 10,
+    "amount": 12,
     "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 100
+    "xp": 120
   }
 
 ]
+
 
 
 
