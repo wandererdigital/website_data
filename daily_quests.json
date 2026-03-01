@@ -1,30 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 3,
-    "description": "Activează clădiri aflate pe strada Anastasie Simu pentru a finaliza aventura!",
-    "xp": 30
-  },
-   {
     "title": "Arhitecți Celebri",
     "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Marcel Maller pentru a finaliza aventura!",
+    "description": "Activează clădiri proiectate de arhitectul Felix Xenopol pentru a finaliza aventura!",
     "xp": 30
   },
-   {
-    "title": "Clădiri Monument (B)",
-    "amount": 12,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 120
+  {
+    "title": "Stiluri Arhitecturale",
+    "amount": 13,
+    "description": "Activează clădiri realizate în stil modernist pentru a finaliza aventura!",
+    "xp": 130
+  },
+  {
+    "title": "Străzi Reper",
+    "amount": 8,
+    "description": "Activează clădiri aflate pe strada Constantin Budișteanu pentru a finaliza aventura!",
+    "xp": 80
   }
-
 ]
-
-
-
-
-
-
-
-
-
