@@ -1,20 +1,20 @@
 [
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 6,
-    "description": "Activează clădiri realizate în stil modernist, din perioada postbelică, pentru a finaliza aventura!",
-    "xp": 60
+    "title": "Arhitecți Celebri",
+    "amount": 5,
+    "description": "Activează clădiri proiectate de arhitectul Tiberiu Niga pentru a finaliza aventura!",
+    "xp": 50
   },
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 20,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 200
+    "title": "Perioade Istorice",
+    "amount": 16,
+    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
+    "xp": 160
   },
   {
     "title": "Străzi Reper",
     "amount": 3,
-    "description": "Activează clădiri aflate pe strada Sfântul Dumitru pentru a finaliza aventura!",
+    "description": "Activează clădiri aflate pe strada Nicolae Tonitza pentru a finaliza aventura!",
     "xp": 30
   }
 ]
