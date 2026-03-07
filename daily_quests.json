@@ -1,20 +1,20 @@
 [
   {
-    "title": "Clădiri Monument (A)",
-    "amount": 15,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 150
-  },
-  {
-    "title": "Străzi Reper",
-    "amount": 11,
-    "description": "Activează clădiri aflate pe strada Lipscani pentru a finaliza aventura!",
-    "xp": 110
-  },
-  {
     "title": "Perioade Istorice",
-    "amount": 11,
-    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
-    "xp": 110
+    "amount": 13,
+    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
+    "xp": 130
+  },
+  {
+    "title": "Clădiri Monument (B)",
+    "amount": 7,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 70
+  },
+  {
+    "title": "Arhitecți Celebri",
+    "amount": 5,
+    "description": "Activează clădiri proiectate de arhitectul State Baloșin pentru a finaliza aventura!",
+    "xp": 50
   }
 ]
