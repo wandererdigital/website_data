@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 14,
-    "description": "Activează clădiri aflate pe strada Covaci pentru a finaliza aventura!",
-    "xp": 140
-  },
-  {
     "title": "Arhitecți Celebri",
     "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Marcel Maller pentru a finaliza aventura!",
+    "description": "Activează clădiri proiectate de arhitectul Alexandru Săvulescu pentru a finaliza aventura!",
     "xp": 30
   },
   {
-    "title": "Perioade Istorice",
-    "amount": 8,
-    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
-    "xp": 80
+    "title": "Clădiri Monument (B)",
+    "amount": 15,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 150
+  },
+  {
+    "title": "Stiluri Arhitecturale",
+    "amount": 5,
+    "description": "Activează clădiri realizate în stil brâncovenesc pentru a finaliza aventura!",
+    "xp": 50
   }
 ]
