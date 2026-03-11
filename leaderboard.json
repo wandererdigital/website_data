@@ -42,6 +42,13 @@
     "discovered": 3
   },
   {
+    "username": "David",
+    "level": 1,
+    "adventures_completed": 0,
+    "xp": 0,
+    "discovered": 0
+  },
+  {
     "username": "arhitectul",
     "level": 3,
     "adventures_completed": 2,
