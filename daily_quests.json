@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 21,
-    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
-    "xp": 210
-  },
-  {
-    "title": "Arhitecți Celebri",
-    "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Alexandru Orăscu pentru a finaliza aventura!",
-    "xp": 30
-  },
-  {
     "title": "Stiluri Arhitecturale",
-    "amount": 5,
+    "amount": 8,
     "description": "Activează clădiri realizate în stil mediteraneean pentru a finaliza aventura!",
-    "xp": 50
+    "xp": 80
+  },
+  {
+    "title": "Clădiri Monument (A)",
+    "amount": 22,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 220
+  },
+  {
+    "title": "Perioade Istorice",
+    "amount": 9,
+    "description": "Activează clădiri construite în perioada Belle Époque (1871-1914) pentru a finaliza aventura!",
+    "xp": 90
   }
 ]
