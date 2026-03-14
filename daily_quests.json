@@ -1,20 +1,20 @@
 [
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 8,
-    "description": "Activează clădiri realizate în stil mediteraneean pentru a finaliza aventura!",
-    "xp": 80
-  },
-  {
-    "title": "Clădiri Monument (A)",
-    "amount": 22,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 220
+    "title": "Arhitecți Celebri",
+    "amount": 9,
+    "description": "Activează clădiri proiectate de arhitectul Paul Gottereau pentru a finaliza aventura!",
+    "xp": 90
   },
   {
     "title": "Perioade Istorice",
-    "amount": 9,
-    "description": "Activează clădiri construite în perioada Belle Époque (1871-1914) pentru a finaliza aventura!",
-    "xp": 90
+    "amount": 18,
+    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
+    "xp": 180
+  },
+  {
+    "title": "Clădiri Monument (B)",
+    "amount": 12,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 120
   }
 ]
