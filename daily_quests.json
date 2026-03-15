@@ -1,20 +1,20 @@
 [
   {
+    "title": "Clădiri Monument (A)",
+    "amount": 23,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 230
+  },
+  {
     "title": "Arhitecți Celebri",
-    "amount": 9,
-    "description": "Activează clădiri proiectate de arhitectul Paul Gottereau pentru a finaliza aventura!",
-    "xp": 90
+    "amount": 3,
+    "description": "Activează clădiri proiectate de arhitectul Horia Creangă pentru a finaliza aventura!",
+    "xp": 30
   },
   {
-    "title": "Perioade Istorice",
-    "amount": 18,
-    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
-    "xp": 180
-  },
-  {
-    "title": "Clădiri Monument (B)",
-    "amount": 12,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 120
+    "title": "Stiluri Arhitecturale",
+    "amount": 7,
+    "description": "Activează clădiri realizate în stil neogotic pentru a finaliza aventura!",
+    "xp": 70
   }
 ]
