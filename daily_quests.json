@@ -1,20 +1,20 @@
 [
   {
-    "title": "Clădiri Monument (A)",
-    "amount": 23,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 230
+    "title": "Perioade Istorice",
+    "amount": 21,
+    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
+    "xp": 210
   },
   {
-    "title": "Arhitecți Celebri",
-    "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Horia Creangă pentru a finaliza aventura!",
-    "xp": 30
+    "title": "Clădiri Monument (A)",
+    "amount": 9,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 90
   },
   {
     "title": "Stiluri Arhitecturale",
-    "amount": 7,
-    "description": "Activează clădiri realizate în stil neogotic pentru a finaliza aventura!",
-    "xp": 70
+    "amount": 5,
+    "description": "Activează clădiri realizate în stil Art Nouveau pentru a finaliza aventura!",
+    "xp": 50
   }
 ]
