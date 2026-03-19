@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 4,
-    "description": "Activează clădiri aflate pe strada Buzești pentru a finaliza aventura!",
-    "xp": 40
-  },
-  {
     "title": "Arhitecți Celebri",
     "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Ion Mincu pentru a finaliza aventura!",
+    "description": "Activează clădiri proiectate de arhitecta Henrieta Delavrancea pentru a finaliza aventura!",
     "xp": 30
   },
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 12,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 120
+    "title": "Clădiri Monument (A)",
+    "amount": 17,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 170
+  },
+  {
+    "title": "Străzi Reper",
+    "amount": 7,
+    "description": "Activează clădiri aflate pe strada Șipotul Fântânilor pentru a finaliza aventura!",
+    "xp": 70
   }
 ]
