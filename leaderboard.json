@@ -22,10 +22,10 @@
   },
   {
     "username": "levainqueur",
-    "level": 7,
-    "adventures_completed": 4,
-    "xp": 705,
-    "discovered": 32
+    "level": 12,
+    "adventures_completed": 10,
+    "xp": 1495,
+    "discovered": 59
   },
   {
     "username": "test",
@@ -61,6 +61,13 @@
     "adventures_completed": 1,
     "xp": 85,
     "discovered": 6
+  },
+  {
+    "username": "KRM",
+    "level": 1,
+    "adventures_completed": 2,
+    "xp": 60,
+    "discovered": 0
   },
   {
     "username": "wanderer",
