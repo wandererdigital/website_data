@@ -1,20 +1,20 @@
 [
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 15,
-    "description": "Activează clădiri realizate în stil modernist pentru a finaliza aventura!",
-    "xp": 150
-  },
-  {
-    "title": "Clădiri Monument (A)",
-    "amount": 14,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 140
+    "title": "Arhitecți Celebri",
+    "amount": 7,
+    "description": "Activează clădiri proiectate de arhitectul Grigore Cerkez pentru a finaliza aventura!",
+    "xp": 70
   },
   {
     "title": "Străzi Reper",
-    "amount": 5,
-    "description": "Activează clădiri aflate pe strada Mihai Vodă pentru a finaliza aventura!",
-    "xp": 50
+    "amount": 20,
+    "description": "Activează clădiri aflate pe strada Ion Câmpineanu pentru a finaliza aventura!",
+    "xp": 200
+  },
+  {
+    "title": "Perioade Istorice",
+    "amount": 15,
+    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
+    "xp": 150
   }
 ]
