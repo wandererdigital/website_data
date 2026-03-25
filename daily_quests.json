@@ -1,20 +1,20 @@
 [
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 10,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 100
+    "title": "Perioade Istorice",
+    "amount": 18,
+    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
+    "xp": 180
+  },
+  {
+    "title": "Stiluri Arhitecturale",
+    "amount": 11,
+    "description": "Activează clădiri realizate în stil modernist, din perioada interbelică, pentru a finaliza aventura!",
+    "xp": 110
   },
   {
     "title": "Arhitecți Celebri",
-    "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Paul Smărăndescu pentru a finaliza aventura!",
-    "xp": 30
-  },
-  {
-    "title": "Perioade Istorice",
-    "amount": 17,
-    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
-    "xp": 170
+    "amount": 6,
+    "description": "Activează clădiri proiectate de arhitectul Ernest Doneaud pentru a finaliza aventura!",
+    "xp": 60
   }
 ]
