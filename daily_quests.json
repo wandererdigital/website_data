@@ -1,20 +1,20 @@
 [
   {
+    "title": "Clădiri Monument (A)",
+    "amount": 18,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 180
+  },
+  {
+    "title": "Străzi Reper",
+    "amount": 14,
+    "description": "Activează clădiri aflate pe strada Regina Elisabeta pentru a finaliza aventura!",
+    "xp": 140
+  },
+  {
     "title": "Arhitecți Celebri",
-    "amount": 4,
-    "description": "Activează clădiri proiectate de arhitectul Felix Xenopol pentru a finaliza aventura!",
-    "xp": 40
-  },
-  {
-    "title": "Perioade Istorice",
-    "amount": 19,
-    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
-    "xp": 190
-  },
-  {
-    "title": "Stiluri Arhitecturale",
-    "amount": 17,
-    "description": "Activează clădiri realizate în stil modernist, din perioada socialistă, pentru a finaliza aventura!",
-    "xp": 170
+    "amount": 5,
+    "description": "Activează clădiri proiectate de arhitecta Elena Voinescu pentru a finaliza aventura!",
+    "xp": 50
   }
 ]
