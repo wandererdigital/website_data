@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 15,
-    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
-    "xp": 150
-  },
-  {
-    "title": "Clădiri Monument (A)",
-    "amount": 21,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 210
-  },
-  {
     "title": "Stiluri Arhitecturale",
-    "amount": 23,
-    "description": "Activează clădiri realizate în stil Art Deco pentru a finaliza aventura!",
-    "xp": 230
+    "amount": 13,
+    "description": "Activează clădiri realizate în stil Beaux-Arts pentru a finaliza aventura!",
+    "xp": 130
+  },
+  {
+    "title": "Perioade Istorice",
+    "amount": 16,
+    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
+    "xp": 160
+  },
+  {
+    "title": "Clădiri Monument (B)",
+    "amount": 15,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 150
   }
 ]
