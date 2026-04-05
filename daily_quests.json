@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 21,
-    "description": "Activează clădiri aflate pe strada Nicolae Iorga pentru a finaliza aventura!",
-    "xp": 210
+    "title": "Clădiri Monument (A)",
+    "amount": 8,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 80
+  },
+  {
+    "title": "Arhitecți Celebri",
+    "amount": 17,
+    "description": "Activează clădiri proiectate de arhitectul Paul Smărăndescu pentru a finaliza aventura!",
+    "xp": 170
   },
   {
     "title": "Stiluri Arhitecturale",
-    "amount": 7,
-    "description": "Activează clădiri realizate în stil Art Nouveau pentru a finaliza aventura!",
-    "xp": 70
-  },
-  {
-    "title": "Clădiri Monument (B)",
-    "amount": 21,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 210
+    "amount": 24,
+    "description": "Activează clădiri realizate în stil neoromânesc pentru a finaliza aventura!",
+    "xp": 240
   }
 ]
