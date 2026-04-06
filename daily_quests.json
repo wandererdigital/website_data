@@ -1,20 +1,20 @@
 [
   {
+    "title": "Perioade Istorice",
+    "amount": 5,
+    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
+    "xp": 50
+  },
+  {
     "title": "Clădiri Monument (A)",
-    "amount": 8,
+    "amount": 9,
     "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 80
+    "xp": 90
   },
   {
-    "title": "Arhitecți Celebri",
-    "amount": 17,
-    "description": "Activează clădiri proiectate de arhitectul Paul Smărăndescu pentru a finaliza aventura!",
-    "xp": 170
-  },
-  {
-    "title": "Stiluri Arhitecturale",
-    "amount": 24,
-    "description": "Activează clădiri realizate în stil neoromânesc pentru a finaliza aventura!",
-    "xp": 240
+    "title": "Străzi Reper",
+    "amount": 5,
+    "description": "Activează clădiri aflate pe strada Halelor pentru a finaliza aventura!",
+    "xp": 50
   }
 ]
