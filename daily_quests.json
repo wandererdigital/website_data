@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 5,
-    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
-    "xp": 50
-  },
-  {
-    "title": "Clădiri Monument (A)",
-    "amount": 9,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 90
+    "title": "Stiluri Arhitecturale",
+    "amount": 13,
+    "description": "Activează clădiri realizate în stil neoclasic pentru a finaliza aventura!",
+    "xp": 130
   },
   {
     "title": "Străzi Reper",
-    "amount": 5,
-    "description": "Activează clădiri aflate pe strada Halelor pentru a finaliza aventura!",
-    "xp": 50
+    "amount": 15,
+    "description": "Activează clădiri aflate pe strada Frumoasă pentru a finaliza aventura!",
+    "xp": 150
+  },
+  {
+    "title": "Perioade Istorice",
+    "amount": 19,
+    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
+    "xp": 190
   }
 ]
