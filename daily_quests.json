@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 8,
-    "description": "Activează clădiri aflate pe strada Covaci pentru a finaliza aventura!",
-    "xp": 80
-  },
-  {
     "title": "Arhitecți Celebri",
-    "amount": 4,
-    "description": "Activează clădiri proiectate de arhitectul Ernest Doneaud pentru a finaliza aventura!",
-    "xp": 40
+    "amount": 3,
+    "description": "Activează clădiri proiectate de arhitectul Jean Monda pentru a finaliza aventura!",
+    "xp": 30
   },
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 21,
-    "description": "Activează clădiri realizate în stil neoclasic francez pentru a finaliza aventura!",
-    "xp": 210
+    "title": "Clădiri Monument (A)",
+    "amount": 17,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 170
+  },
+  {
+    "title": "Străzi Reper",
+    "amount": 24,
+    "description": "Activează clădiri aflate pe strada Biserica Amzei pentru a finaliza aventura!",
+    "xp": 240
   }
 ]
