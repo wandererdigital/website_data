@@ -1,20 +1,20 @@
 [
   {
+    "title": "Stiluri Arhitecturale",
+    "amount": 10,
+    "description": "Activează clădiri realizate în stil modernist, din perioada interbelică, pentru a finaliza aventura!",
+    "xp": 100
+  },
+  {
     "title": "Perioade Istorice",
-    "amount": 13,
-    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
-    "xp": 130
+    "amount": 14,
+    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
+    "xp": 140
   },
   {
     "title": "Arhitecți Celebri",
     "amount": 6,
-    "description": "Activează clădiri proiectate de arhitectul Felix Xenopol pentru a finaliza aventura!",
+    "description": "Activează clădiri proiectate de arhitecta Elena Voinescu pentru a finaliza aventura!",
     "xp": 60
-  },
-  {
-    "title": "Străzi Reper",
-    "amount": 19,
-    "description": "Activează clădiri aflate pe strada Smârdan pentru a finaliza aventura!",
-    "xp": 190
   }
 ]
