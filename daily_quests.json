@@ -1,20 +1,20 @@
 [
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 16,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 160
+    "title": "Perioade Istorice",
+    "amount": 13,
+    "description": "Activează clădiri construite în perioada Belle Époque (1871-1914) pentru a finaliza aventura!",
+    "xp": 130
+  },
+  {
+    "title": "Stiluri Arhitecturale",
+    "amount": 11,
+    "description": "Activează clădiri realizate în stil modernist, din perioada socialistă, pentru a finaliza aventura!",
+    "xp": 110
   },
   {
     "title": "Arhitecți Celebri",
-    "amount": 4,
-    "description": "Activează clădiri proiectate de arhitectul Carol Benisch pentru a finaliza aventura!",
-    "xp": 40
-  },
-  {
-    "title": "Perioade Istorice",
-    "amount": 17,
-    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
-    "xp": 170
+    "amount": 5,
+    "description": "Activează clădiri proiectate de arhitectul Tiberiu Niga pentru a finaliza aventura!",
+    "xp": 50
   }
 ]
