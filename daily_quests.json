@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 13,
-    "description": "Activează clădiri construite în perioada Belle Époque (1871-1914) pentru a finaliza aventura!",
-    "xp": 130
+    "title": "Stiluri Arhitecturale",
+    "amount": 10,
+    "description": "Activează clădiri realizate în stil Art Deco pentru a finaliza aventura!",
+    "xp": 100
   },
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 11,
-    "description": "Activează clădiri realizate în stil modernist, din perioada socialistă, pentru a finaliza aventura!",
-    "xp": 110
+    "title": "Străzi Reper",
+    "amount": 3,
+    "description": "Activează clădiri aflate pe strada Demetru I. Dobrescu pentru a finaliza aventura!",
+    "xp": 30
   },
   {
     "title": "Arhitecți Celebri",
-    "amount": 5,
-    "description": "Activează clădiri proiectate de arhitectul Tiberiu Niga pentru a finaliza aventura!",
-    "xp": 50
+    "amount": 11,
+    "description": "Activează clădiri proiectate de arhitectul Arghir Culina pentru a finaliza aventura!",
+    "xp": 110
   }
 ]
