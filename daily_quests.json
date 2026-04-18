@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 5,
-    "description": "Activează clădiri aflate pe strada Boteanu pentru a finaliza aventura!",
-    "xp": 50
+    "title": "Arhitecți Celebri",
+    "amount": 3,
+    "description": "Activează clădiri proiectate de arhitectul Alexandru Săvulescu pentru a finaliza aventura!",
+    "xp": 30
+  },
+  {
+    "title": "Perioade Istorice",
+    "amount": 9,
+    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
+    "xp": 90
   },
   {
     "title": "Clădiri Monument (B)",
-    "amount": 13,
+    "amount": 17,
     "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 130
-  },
-  {
-    "title": "Arhitecți Celebri",
-    "amount": 5,
-    "description": "Activează clădiri proiectate de arhitectul State Baloșin pentru a finaliza aventura!",
-    "xp": 50
+    "xp": 170
   }
 ]
