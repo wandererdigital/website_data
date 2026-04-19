@@ -1,20 +1,20 @@
 [
   {
-    "title": "Arhitecți Celebri",
-    "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Alexandru Săvulescu pentru a finaliza aventura!",
-    "xp": 30
+    "title": "Clădiri Monument (A)",
+    "amount": 13,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 130
   },
   {
-    "title": "Perioade Istorice",
-    "amount": 9,
-    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
-    "xp": 90
+    "title": "Străzi Reper",
+    "amount": 6,
+    "description": "Activează clădiri aflate pe strada Splaiul Independenței pentru a finaliza aventura!",
+    "xp": 60
   },
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 17,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 170
+    "title": "Stiluri Arhitecturale",
+    "amount": 20,
+    "description": "Activează clădiri realizate în stil Beaux-Arts pentru a finaliza aventura!",
+    "xp": 200
   }
 ]
