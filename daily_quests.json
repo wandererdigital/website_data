@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 21,
-    "description": "Activează clădiri construite în perioada Belle Époque (1871-1914) pentru a finaliza aventura!",
-    "xp": 210
-  },
-  {
-    "title": "Clădiri Monument (A)",
-    "amount": 20,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 200
-  },
-  {
     "title": "Stiluri Arhitecturale",
     "amount": 6,
     "description": "Activează clădiri realizate în stil brâncovenesc pentru a finaliza aventura!",
     "xp": 60
+  },
+  {
+    "title": "Perioade Istorice",
+    "amount": 16,
+    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
+    "xp": 160
+  },
+  {
+    "title": "Clădiri Monument (B)",
+    "amount": 14,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 140
   }
 ]
