@@ -1,20 +1,20 @@
 [
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 6,
-    "description": "Activează clădiri realizate în stil brâncovenesc pentru a finaliza aventura!",
-    "xp": 60
-  },
-  {
-    "title": "Perioade Istorice",
+    "title": "Străzi Reper",
     "amount": 16,
-    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
+    "description": "Activează clădiri aflate pe strada Ion Brezoianu pentru a finaliza aventura!",
     "xp": 160
   },
   {
+    "title": "Stiluri Arhitecturale",
+    "amount": 9,
+    "description": "Activează clădiri realizate în stil mediteraneean pentru a finaliza aventura!",
+    "xp": 90
+  },
+  {
     "title": "Clădiri Monument (B)",
-    "amount": 14,
+    "amount": 17,
     "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 140
+    "xp": 170
   }
 ]
