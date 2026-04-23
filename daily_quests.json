@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 16,
-    "description": "Activează clădiri aflate pe strada Ion Brezoianu pentru a finaliza aventura!",
-    "xp": 160
+    "title": "Clădiri Monument (A)",
+    "amount": 24,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 240
   },
   {
     "title": "Stiluri Arhitecturale",
     "amount": 9,
-    "description": "Activează clădiri realizate în stil mediteraneean pentru a finaliza aventura!",
+    "description": "Activează clădiri realizate în stil neogotic pentru a finaliza aventura!",
     "xp": 90
   },
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 17,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 170
+    "title": "Perioade Istorice",
+    "amount": 20,
+    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
+    "xp": 200
   }
 ]
