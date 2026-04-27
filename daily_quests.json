@@ -1,20 +1,20 @@
 [
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 7,
-    "description": "Activează clădiri realizate în stil Art Nouveau pentru a finaliza aventura!",
-    "xp": 70
+    "title": "Arhitecți Celebri",
+    "amount": 3,
+    "description": "Activează clădiri proiectate de arhitectul Horia Creangă pentru a finaliza aventura!",
+    "xp": 30
   },
   {
-    "title": "Arhitecți Celebri",
-    "amount": 4,
-    "description": "Activează clădiri proiectate de arhitectul Ion D. Berindey pentru a finaliza aventura!",
-    "xp": 40
+    "title": "Perioade Istorice",
+    "amount": 10,
+    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
+    "xp": 100
   },
   {
     "title": "Străzi Reper",
-    "amount": 5,
-    "description": "Activează clădiri aflate pe strada C. A. Rosetti pentru a finaliza aventura!",
-    "xp": 50
+    "amount": 20,
+    "description": "Activează clădiri aflate pe strada Theodor Aman pentru a finaliza aventura!",
+    "xp": 200
   }
 ]
