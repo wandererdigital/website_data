@@ -1,20 +1,20 @@
 [
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 10,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 100
+    "title": "Perioade Istorice",
+    "amount": 8,
+    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
+    "xp": 80
+  },
+  {
+    "title": "Clădiri Monument (A)",
+    "amount": 12,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 120
   },
   {
     "title": "Arhitecți Celebri",
     "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Ion Mincu pentru a finaliza aventura!",
+    "description": "Activează clădiri proiectate de arhitecta Henrieta Delavrancea pentru a finaliza aventura!",
     "xp": 30
-  },
-  {
-    "title": "Străzi Reper",
-    "amount": 12,
-    "description": "Activează clădiri aflate pe strada Regina Elisabeta pentru a finaliza aventura!",
-    "xp": 120
   }
 ]
