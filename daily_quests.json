@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 8,
-    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
-    "xp": 80
+    "title": "Stiluri Arhitecturale",
+    "amount": 16,
+    "description": "Activează clădiri realizate în stil neoclasic francez pentru a finaliza aventura!",
+    "xp": 160
   },
   {
-    "title": "Clădiri Monument (A)",
-    "amount": 12,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 120
+    "title": "Perioade Istorice",
+    "amount": 18,
+    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
+    "xp": 180
   },
   {
     "title": "Arhitecți Celebri",
-    "amount": 3,
-    "description": "Activează clădiri proiectate de arhitecta Henrieta Delavrancea pentru a finaliza aventura!",
-    "xp": 30
+    "amount": 7,
+    "description": "Activează clădiri proiectate de arhitectul Petre Antonescu pentru a finaliza aventura!",
+    "xp": 70
   }
 ]
