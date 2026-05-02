@@ -1,20 +1,20 @@
 [
   {
+    "title": "Stiluri Arhitecturale",
+    "amount": 16,
+    "description": "Activează clădiri realizate în stil modernist, din perioada socialistă, pentru a finaliza aventura!",
+    "xp": 160
+  },
+  {
     "title": "Perioade Istorice",
-    "amount": 18,
-    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
-    "xp": 180
+    "amount": 14,
+    "description": "Activează clădiri construite în perioada Belle Époque (1871-1914) pentru a finaliza aventura!",
+    "xp": 140
   },
   {
     "title": "Arhitecți Celebri",
-    "amount": 9,
-    "description": "Activează clădiri proiectate de arhitectul Arghir Culina pentru a finaliza aventura!",
-    "xp": 90
-  },
-  {
-    "title": "Stiluri Arhitecturale",
-    "amount": 9,
-    "description": "Activează clădiri realizate în stil modernist, din perioada postbelică, pentru a finaliza aventura!",
-    "xp": 90
+    "amount": 8,
+    "description": "Activează clădiri proiectate de arhitectul State Baloșin pentru a finaliza aventura!",
+    "xp": 80
   }
 ]
