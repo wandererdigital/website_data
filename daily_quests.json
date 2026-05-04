@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 7,
-    "description": "Activează clădiri aflate pe strada Nicolae Golescu pentru a finaliza aventura!",
-    "xp": 70
+    "title": "Arhitecți Celebri",
+    "amount": 3,
+    "description": "Activează clădiri proiectate de arhitectul Marcel Maller pentru a finaliza aventura!",
+    "xp": 30
+  },
+  {
+    "title": "Clădiri Monument (B)",
+    "amount": 16,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 160
   },
   {
     "title": "Stiluri Arhitecturale",
-    "amount": 20,
-    "description": "Activează clădiri realizate în stil modernist, din perioada socialistă, pentru a finaliza aventura!",
-    "xp": 200
-  },
-  {
-    "title": "Arhitecți Celebri",
-    "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Alexandru Săvulescu pentru a finaliza aventura!",
-    "xp": 30
+    "amount": 16,
+    "description": "Activează clădiri realizate în stil Art Deco pentru a finaliza aventura!",
+    "xp": 160
   }
 ]
