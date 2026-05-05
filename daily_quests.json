@@ -1,20 +1,20 @@
 [
   {
-    "title": "Arhitecți Celebri",
-    "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Marcel Maller pentru a finaliza aventura!",
-    "xp": 30
-  },
-  {
-    "title": "Clădiri Monument (B)",
-    "amount": 16,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 160
+    "title": "Perioade Istorice",
+    "amount": 19,
+    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
+    "xp": 190
   },
   {
     "title": "Stiluri Arhitecturale",
-    "amount": 16,
+    "amount": 22,
     "description": "Activează clădiri realizate în stil Art Deco pentru a finaliza aventura!",
-    "xp": 160
+    "xp": 220
+  },
+  {
+    "title": "Clădiri Monument (B)",
+    "amount": 19,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 190
   }
 ]
