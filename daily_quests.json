@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 19,
-    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
-    "xp": 190
-  },
-  {
     "title": "Stiluri Arhitecturale",
-    "amount": 22,
-    "description": "Activează clădiri realizate în stil Art Deco pentru a finaliza aventura!",
-    "xp": 220
+    "amount": 16,
+    "description": "Activează clădiri realizate în stil Beaux-Arts pentru a finaliza aventura!",
+    "xp": 160
   },
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 19,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 190
+    "title": "Străzi Reper",
+    "amount": 3,
+    "description": "Activează clădiri aflate pe strada Eugeniu Carada pentru a finaliza aventura!",
+    "xp": 30
+  },
+  {
+    "title": "Clădiri Monument (A)",
+    "amount": 22,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 220
   }
 ]
