@@ -1,20 +1,20 @@
 [
   {
-    "title": "Arhitecți Celebri",
-    "amount": 8,
-    "description": "Activează clădiri proiectate de arhitectul Ion D. Berindey pentru a finaliza aventura!",
-    "xp": 80
+    "title": "Clădiri Monument (A)",
+    "amount": 19,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 190
   },
   {
-    "title": "Perioade Istorice",
-    "amount": 8,
-    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
-    "xp": 80
+    "title": "Străzi Reper",
+    "amount": 5,
+    "description": "Activează clădiri aflate pe strada Visarion pentru a finaliza aventura!",
+    "xp": 50
   },
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 16,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 160
+    "title": "Stiluri Arhitecturale",
+    "amount": 8,
+    "description": "Activează clădiri realizate în stil mediteraneean pentru a finaliza aventura!",
+    "xp": 80
   }
 ]
