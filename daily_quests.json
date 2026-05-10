@@ -1,15 +1,15 @@
 [
   {
-    "title": "Clădiri Monument (A)",
-    "amount": 19,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 190
+    "title": "Perioade Istorice",
+    "amount": 16,
+    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
+    "xp": 160
   },
   {
-    "title": "Străzi Reper",
-    "amount": 5,
-    "description": "Activează clădiri aflate pe strada Visarion pentru a finaliza aventura!",
-    "xp": 50
+    "title": "Clădiri Monument (A)",
+    "amount": 10,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 100
   },
   {
     "title": "Stiluri Arhitecturale",
