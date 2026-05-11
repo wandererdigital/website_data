@@ -1,20 +1,20 @@
 [
   {
+    "title": "Stiluri Arhitecturale",
+    "amount": 11,
+    "description": "Activează clădiri realizate în stil neogotic pentru a finaliza aventura!",
+    "xp": 110
+  },
+  {
     "title": "Perioade Istorice",
     "amount": 16,
-    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
+    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
     "xp": 160
   },
   {
-    "title": "Clădiri Monument (A)",
-    "amount": 10,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 100
-  },
-  {
-    "title": "Stiluri Arhitecturale",
-    "amount": 8,
-    "description": "Activează clădiri realizate în stil mediteraneean pentru a finaliza aventura!",
-    "xp": 80
+    "title": "Străzi Reper",
+    "amount": 9,
+    "description": "Activează clădiri aflate pe strada Piața Amzei pentru a finaliza aventura!",
+    "xp": 90
   }
 ]
