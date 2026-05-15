@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 6,
-    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
-    "xp": 60
+    "title": "Stiluri Arhitecturale",
+    "amount": 13,
+    "description": "Activează clădiri realizate în stil neoromânesc pentru a finaliza aventura!",
+    "xp": 130
   },
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 24,
-    "description": "Activează clădiri realizate în stil neoromânesc pentru a finaliza aventura!",
-    "xp": 240
+    "title": "Arhitecți Celebri",
+    "amount": 4,
+    "description": "Activează clădiri proiectate de arhitectul Petre Antonescu pentru a finaliza aventura!",
+    "xp": 40
   },
   {
     "title": "Străzi Reper",
-    "amount": 12,
-    "description": "Activează clădiri aflate pe strada General Berthelot pentru a finaliza aventura!",
-    "xp": 120
+    "amount": 3,
+    "description": "Activează clădiri aflate pe strada Demetru I. Dobrescu pentru a finaliza aventura!",
+    "xp": 30
   }
 ]
