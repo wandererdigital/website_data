@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 14,
-    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
-    "xp": 140
+    "title": "Stiluri Arhitecturale",
+    "amount": 11,
+    "description": "Activează clădiri realizate în stil modernist pentru a finaliza aventura!",
+    "xp": 110
   },
   {
-    "title": "Clădiri Monument (A)",
-    "amount": 12,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 120
+    "title": "Străzi Reper",
+    "amount": 18,
+    "description": "Activează clădiri aflate pe strada Mendeleev pentru a finaliza aventura!",
+    "xp": 180
   },
   {
     "title": "Arhitecți Celebri",
-    "amount": 4,
-    "description": "Activează clădiri proiectate de arhitectul Jean Monda pentru a finaliza aventura!",
-    "xp": 40
+    "amount": 5,
+    "description": "Activează clădiri proiectate de arhitectul Ernest Doneaud pentru a finaliza aventura!",
+    "xp": 50
   }
 ]
