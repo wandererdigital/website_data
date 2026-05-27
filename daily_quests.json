@@ -1,20 +1,20 @@
 [
   {
-    "title": "Arhitecți Celebri",
-    "amount": 8,
-    "description": "Activează clădiri proiectate de arhitectul Arghir Culina pentru a finaliza aventura!",
-    "xp": 80
+    "title": "Clădiri Monument (A)",
+    "amount": 13,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 130
   },
   {
-    "title": "Străzi Reper",
+    "title": "Arhitecți Celebri",
     "amount": 5,
-    "description": "Activează clădiri aflate pe strada Tache Ionescu pentru a finaliza aventura!",
+    "description": "Activează clădiri proiectate de arhitectul Tiberiu Niga pentru a finaliza aventura!",
     "xp": 50
   },
   {
-    "title": "Clădiri Monument (A)",
-    "amount": 12,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 120
+    "title": "Stiluri Arhitecturale",
+    "amount": 15,
+    "description": "Activează clădiri realizate în stil Art Deco pentru a finaliza aventura!",
+    "xp": 150
   }
 ]
