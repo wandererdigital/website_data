@@ -1,20 +1,20 @@
 [
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 6,
-    "description": "Activează clădiri realizate în stil brâncovenesc pentru a finaliza aventura!",
-    "xp": 60
-  },
-  {
     "title": "Străzi Reper",
-    "amount": 6,
-    "description": "Activează clădiri aflate pe strada Ion Ghica pentru a finaliza aventura!",
-    "xp": 60
+    "amount": 16,
+    "description": "Activează clădiri aflate pe strada Gheorghe Manu pentru a finaliza aventura!",
+    "xp": 160
   },
   {
-    "title": "Perioade Istorice",
-    "amount": 10,
-    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
-    "xp": 100
+    "title": "Arhitecți Celebri",
+    "amount": 3,
+    "description": "Activează clădiri proiectate de arhitectul Alexandru Săvulescu pentru a finaliza aventura!",
+    "xp": 30
+  },
+  {
+    "title": "Stiluri Arhitecturale",
+    "amount": 5,
+    "description": "Activează clădiri realizate în stil brâncovenesc pentru a finaliza aventura!",
+    "xp": 50
   }
 ]
