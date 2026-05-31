@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 16,
-    "description": "Activează clădiri aflate pe strada Gheorghe Manu pentru a finaliza aventura!",
-    "xp": 160
-  },
-  {
     "title": "Arhitecți Celebri",
-    "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Alexandru Săvulescu pentru a finaliza aventura!",
-    "xp": 30
+    "amount": 4,
+    "description": "Activează clădiri proiectate de arhitectul Marcel Maller pentru a finaliza aventura!",
+    "xp": 40
   },
   {
-    "title": "Stiluri Arhitecturale",
+    "title": "Perioade Istorice",
+    "amount": 22,
+    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
+    "xp": 220
+  },
+  {
+    "title": "Străzi Reper",
     "amount": 5,
-    "description": "Activează clădiri realizate în stil brâncovenesc pentru a finaliza aventura!",
+    "description": "Activează clădiri aflate pe strada Eforie pentru a finaliza aventura!",
     "xp": 50
   }
 ]
