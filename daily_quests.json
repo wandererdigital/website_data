@@ -1,20 +1,20 @@
 [
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 7,
-    "description": "Activează clădiri realizate în stil Art Nouveau pentru a finaliza aventura!",
-    "xp": 70
-  },
-  {
-    "title": "Perioade Istorice",
-    "amount": 16,
-    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
-    "xp": 160
-  },
-  {
     "title": "Străzi Reper",
-    "amount": 12,
-    "description": "Activează clădiri aflate pe strada Sevastopol pentru a finaliza aventura!",
-    "xp": 120
+    "amount": 3,
+    "description": "Activează clădiri aflate pe strada Nicolae Golescu pentru a finaliza aventura!",
+    "xp": 30
+  },
+  {
+    "title": "Arhitecți Celebri",
+    "amount": 4,
+    "description": "Activează clădiri proiectate de arhitectul Jean Monda pentru a finaliza aventura!",
+    "xp": 40
+  },
+  {
+    "title": "Stiluri Arhitecturale",
+    "amount": 16,
+    "description": "Activează clădiri realizate în stil neoromânesc pentru a finaliza aventura!",
+    "xp": 160
   }
 ]
