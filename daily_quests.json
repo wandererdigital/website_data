@@ -1,20 +1,20 @@
 [
   {
+    "title": "Clădiri Monument (B)",
+    "amount": 11,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 110
+  },
+  {
+    "title": "Perioade Istorice",
+    "amount": 23,
+    "description": "Activează clădiri construite în perioada Belle Époque (1871-1914) pentru a finaliza aventura!",
+    "xp": 230
+  },
+  {
     "title": "Arhitecți Celebri",
-    "amount": 5,
-    "description": "Activează clădiri proiectate de arhitectul Ernest Doneaud pentru a finaliza aventura!",
-    "xp": 50
-  },
-  {
-    "title": "Clădiri Monument (A)",
-    "amount": 17,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 170
-  },
-  {
-    "title": "Străzi Reper",
-    "amount": 19,
-    "description": "Activează clădiri aflate pe strada Lascăr Catargiu pentru a finaliza aventura!",
-    "xp": 190
+    "amount": 4,
+    "description": "Activează clădiri proiectate de arhitectul Jean Monda pentru a finaliza aventura!",
+    "xp": 40
   }
 ]
