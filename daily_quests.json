@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 8,
-    "description": "Activează clădiri aflate pe strada Constantin Mille pentru a finaliza aventura!",
-    "xp": 80
-  },
-  {
-    "title": "Clădiri Monument (A)",
-    "amount": 15,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 150
-  },
-  {
     "title": "Arhitecți Celebri",
-    "amount": 5,
-    "description": "Activează clădiri proiectate de arhitectul Felix Xenopol pentru a finaliza aventura!",
-    "xp": 50
+    "amount": 4,
+    "description": "Activează clădiri proiectate de arhitectul Carol Benisch pentru a finaliza aventura!",
+    "xp": 40
+  },
+  {
+    "title": "Străzi Reper",
+    "amount": 3,
+    "description": "Activează clădiri aflate pe strada Benjamin Franklin pentru a finaliza aventura!",
+    "xp": 30
+  },
+  {
+    "title": "Stiluri Arhitecturale",
+    "amount": 19,
+    "description": "Activează clădiri realizate în stil modernist pentru a finaliza aventura!",
+    "xp": 190
   }
 ]
