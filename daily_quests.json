@@ -1,20 +1,20 @@
 [
   {
-    "title": "Stiluri Arhitecturale",
-    "amount": 23,
-    "description": "Activează clădiri realizate în stil eclectic pentru a finaliza aventura!",
-    "xp": 230
-  },
-  {
     "title": "Străzi Reper",
-    "amount": 5,
-    "description": "Activează clădiri aflate pe strada Tache Ionescu pentru a finaliza aventura!",
-    "xp": 50
+    "amount": 8,
+    "description": "Activează clădiri aflate pe strada Luigi Cazzavillan pentru a finaliza aventura!",
+    "xp": 80
   },
   {
-    "title": "Perioade Istorice",
-    "amount": 9,
-    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
-    "xp": 90
+    "title": "Arhitecți Celebri",
+    "amount": 7,
+    "description": "Activează clădiri proiectate de arhitectul Arghir Culina pentru a finaliza aventura!",
+    "xp": 70
+  },
+  {
+    "title": "Clădiri Monument (B)",
+    "amount": 19,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 190
   }
 ]
