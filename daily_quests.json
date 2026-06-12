@@ -1,20 +1,20 @@
 [
   {
-    "title": "Străzi Reper",
-    "amount": 8,
-    "description": "Activează clădiri aflate pe strada Luigi Cazzavillan pentru a finaliza aventura!",
-    "xp": 80
+    "title": "Arhitecți Celebri",
+    "amount": 5,
+    "description": "Activează clădiri proiectate de arhitectul State Baloșin pentru a finaliza aventura!",
+    "xp": 50
   },
   {
-    "title": "Arhitecți Celebri",
-    "amount": 7,
-    "description": "Activează clădiri proiectate de arhitectul Arghir Culina pentru a finaliza aventura!",
-    "xp": 70
+    "title": "Perioade Istorice",
+    "amount": 20,
+    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
+    "xp": 200
   },
   {
     "title": "Clădiri Monument (B)",
-    "amount": 19,
+    "amount": 11,
     "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 190
+    "xp": 110
   }
 ]
