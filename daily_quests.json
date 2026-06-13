@@ -1,20 +1,20 @@
 [
   {
-    "title": "Arhitecți Celebri",
-    "amount": 5,
-    "description": "Activează clădiri proiectate de arhitectul State Baloșin pentru a finaliza aventura!",
-    "xp": 50
+    "title": "Clădiri Monument (A)",
+    "amount": 19,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 190
   },
   {
-    "title": "Perioade Istorice",
-    "amount": 20,
-    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
-    "xp": 200
+    "title": "Străzi Reper",
+    "amount": 10,
+    "description": "Activează clădiri aflate pe strada Gabroveni pentru a finaliza aventura!",
+    "xp": 100
   },
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 11,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 110
+    "title": "Stiluri Arhitecturale",
+    "amount": 14,
+    "description": "Activează clădiri realizate în stil Art Deco pentru a finaliza aventura!",
+    "xp": 140
   }
 ]
