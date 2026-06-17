@@ -1,20 +1,20 @@
 [
   {
+    "title": "Clădiri Monument (A)",
+    "amount": 19,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 190
+  },
+  {
     "title": "Arhitecți Celebri",
-    "amount": 5,
-    "description": "Activează clădiri proiectate de arhitectul Marcel Maller pentru a finaliza aventura!",
-    "xp": 50
+    "amount": 3,
+    "description": "Activează clădiri proiectate de arhitectul Alexandru Orăscu pentru a finaliza aventura!",
+    "xp": 30
   },
   {
     "title": "Străzi Reper",
-    "amount": 12,
-    "description": "Activează clădiri aflate pe strada Șelari pentru a finaliza aventura!",
-    "xp": 120
-  },
-  {
-    "title": "Perioade Istorice",
-    "amount": 11,
-    "description": "Activează clădiri construite în perioada interbelică (1918-1939) pentru a finaliza aventura!",
-    "xp": 110
+    "amount": 10,
+    "description": "Activează clădiri aflate pe strada Spiru Haret pentru a finaliza aventura!",
+    "xp": 100
   }
 ]
