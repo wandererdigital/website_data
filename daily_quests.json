@@ -1,20 +1,20 @@
 [
   {
-    "title": "Clădiri Monument (A)",
-    "amount": 19,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 190
+    "title": "Perioade Istorice",
+    "amount": 17,
+    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
+    "xp": 170
   },
   {
-    "title": "Arhitecți Celebri",
-    "amount": 3,
-    "description": "Activează clădiri proiectate de arhitectul Alexandru Orăscu pentru a finaliza aventura!",
-    "xp": 30
+    "title": "Stiluri Arhitecturale",
+    "amount": 7,
+    "description": "Activează clădiri realizate în stil mediteraneean pentru a finaliza aventura!",
+    "xp": 70
   },
   {
     "title": "Străzi Reper",
-    "amount": 10,
-    "description": "Activează clădiri aflate pe strada Spiru Haret pentru a finaliza aventura!",
-    "xp": 100
+    "amount": 3,
+    "description": "Activează clădiri aflate pe strada Poștei pentru a finaliza aventura!",
+    "xp": 30
   }
 ]
