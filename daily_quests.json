@@ -1,20 +1,20 @@
 [
   {
-    "title": "Arhitecți Celebri",
-    "amount": 4,
-    "description": "Activează clădiri proiectate de arhitectul Petre Antonescu pentru a finaliza aventura!",
-    "xp": 40
-  },
-  {
-    "title": "Străzi Reper",
+    "title": "Clădiri Monument (B)",
     "amount": 6,
-    "description": "Activează clădiri aflate pe strada Tache Ionescu pentru a finaliza aventura!",
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
     "xp": 60
   },
   {
     "title": "Stiluri Arhitecturale",
-    "amount": 15,
+    "amount": 10,
     "description": "Activează clădiri realizate în stil neoclasic pentru a finaliza aventura!",
-    "xp": 150
+    "xp": 100
+  },
+  {
+    "title": "Arhitecți Celebri",
+    "amount": 4,
+    "description": "Activează clădiri proiectate de arhitectul Grigore Cerkez pentru a finaliza aventura!",
+    "xp": 40
   }
 ]
