@@ -1,20 +1,20 @@
 [
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 6,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 60
+    "title": "Perioade Istorice",
+    "amount": 14,
+    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
+    "xp": 140
   },
   {
     "title": "Stiluri Arhitecturale",
-    "amount": 10,
-    "description": "Activează clădiri realizate în stil neoclasic pentru a finaliza aventura!",
-    "xp": 100
+    "amount": 16,
+    "description": "Activează clădiri realizate în stil neoclasic francez pentru a finaliza aventura!",
+    "xp": 160
   },
   {
     "title": "Arhitecți Celebri",
-    "amount": 4,
-    "description": "Activează clădiri proiectate de arhitectul Grigore Cerkez pentru a finaliza aventura!",
-    "xp": 40
+    "amount": 6,
+    "description": "Activează clădiri proiectate de arhitectul Paul Smărăndescu pentru a finaliza aventura!",
+    "xp": 60
   }
 ]
