@@ -1,20 +1,20 @@
 [
   {
+    "title": "Străzi Reper",
+    "amount": 16,
+    "description": "Activează clădiri aflate pe strada Nicolae Dona pentru a finaliza aventura!",
+    "xp": 160
+  },
+  {
     "title": "Arhitecți Celebri",
     "amount": 5,
-    "description": "Activează clădiri proiectate de arhitectul Ernest Doneaud pentru a finaliza aventura!",
+    "description": "Activează clădiri proiectate de arhitectul Ion D. Berindey pentru a finaliza aventura!",
     "xp": 50
   },
   {
-    "title": "Perioade Istorice",
-    "amount": 13,
-    "description": "Activează clădiri construite în perioada socialistă (1965-1989) pentru a finaliza aventura!",
-    "xp": 130
-  },
-  {
-    "title": "Clădiri Monument (A)",
-    "amount": 7,
-    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
-    "xp": 70
+    "title": "Clădiri Monument (B)",
+    "amount": 8,
+    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
+    "xp": 80
   }
 ]
