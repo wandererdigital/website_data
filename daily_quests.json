@@ -1,20 +1,20 @@
 [
   {
-    "title": "Arhitecți Celebri",
-    "amount": 9,
-    "description": "Activează clădiri proiectate de arhitectul Paul Gottereau pentru a finaliza aventura!",
-    "xp": 90
+    "title": "Clădiri Monument (A)",
+    "amount": 14,
+    "description": "Activează clădiri clasate drept monumente istorice de interes național pentru a finaliza aventura!",
+    "xp": 140
   },
   {
-    "title": "Perioade Istorice",
-    "amount": 19,
-    "description": "Activează clădiri construite în perioada contemporană (2000+) pentru a finaliza aventura!",
-    "xp": 190
+    "title": "Străzi Reper",
+    "amount": 3,
+    "description": "Activează clădiri aflate pe strada Grigore Alexandrescu pentru a finaliza aventura!",
+    "xp": 30
   },
   {
-    "title": "Clădiri Monument (B)",
-    "amount": 11,
-    "description": "Activează clădiri clasate drept monumente istorice de interes local pentru a finaliza aventura!",
-    "xp": 110
+    "title": "Stiluri Arhitecturale",
+    "amount": 14,
+    "description": "Activează clădiri realizate în stil Beaux-Arts pentru a finaliza aventura!",
+    "xp": 140
   }
 ]
