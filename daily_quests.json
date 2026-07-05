@@ -1,20 +1,20 @@
 [
   {
-    "title": "Perioade Istorice",
-    "amount": 22,
-    "description": "Activează clădiri construite înainte de anul 1870 pentru a finaliza aventura!",
-    "xp": 220
+    "title": "Stiluri Arhitecturale",
+    "amount": 6,
+    "description": "Activează clădiri realizate în stil brâncovenesc pentru a finaliza aventura!",
+    "xp": 60
   },
   {
-    "title": "Arhitecți Celebri",
-    "amount": 4,
-    "description": "Activează clădiri proiectate de arhitectul Ion Mincu pentru a finaliza aventura!",
-    "xp": 40
+    "title": "Perioade Istorice",
+    "amount": 6,
+    "description": "Activează clădiri construite în perioada postbelică (1945-1965) pentru a finaliza aventura!",
+    "xp": 60
   },
   {
     "title": "Străzi Reper",
-    "amount": 5,
-    "description": "Activează clădiri aflate pe strada Episcopiei pentru a finaliza aventura!",
-    "xp": 50
+    "amount": 8,
+    "description": "Activează clădiri aflate pe strada Constantin Budișteanu pentru a finaliza aventura!",
+    "xp": 80
   }
 ]
